@@ -1,4 +1,4 @@
 #!/bin/bash
-node ./src/hello-world.js
+nodejs ./src/hello-world.js
 
 exit $?
